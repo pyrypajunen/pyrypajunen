@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pyrypajunen
-- 👀 I’m interested in Cloud computing.
+- 👀 I’m interested in Cloud Computing and Blockchain.
 - 🌱 I’m currently learning Azure.
 - ✨ My hobby is blockchain technologies.
 - 📫 How to reach me http://www.linkedin.com/in/pyry-pajunen-ethereum-developer
