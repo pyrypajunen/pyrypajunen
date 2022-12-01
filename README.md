@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pyrypajunen
-- 👀 I’m interested in Financial Technologies
-- 🌱 I’m currently learning Hyperledger Fiber and Advanced Data Analytics concepts
+- 👀 I’m interested in Financial Technologies and investment
+- 🌱 I’m currently learning High-Performance Computing and Quantative finance.
 - 💞️ I’m looking to collaborate on projects/internships that support my learning and personal growth.
 - 📫 How to reach: Connect with me via LinkedIn www.linkedin.com/in/pyry-pajunen-fintech
 
