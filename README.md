@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pyrypajunen
-- 👀 I’m interested in Financial Technologies and Investment.
-- 🌱 I’m currently learning High-Performance Computing, Blockchain Development and Quantitative Finance.
+- 👀 I’m interested in building stuff.
+- 🌱 I’m currently building stuff.
 - 📫 How to reach: Connect with me via LinkedIn www.linkedin.com/in/pyry-pajunen
 
 <!---
